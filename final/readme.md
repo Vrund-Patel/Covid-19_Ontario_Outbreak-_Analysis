@@ -44,6 +44,7 @@ Other than the ager groups, the data set includes categories of the following to
 Upon researching, we had found several interesting stuff which at the end of the day helped us better understand Covid-19. One being the outbreaks being categorized. 
 
 Figure 1:
+
 ![](Capture.PNG)
 
 As seen in figure 1, we came to know that most outbreaks happened in the workplace. This makes sense because that is where alot of people spend majority of their day. The second highest one was the Long-Term care homes, this is because older people have weaker immune systems so it is much easier having an outbreak there. What surprised us were how there were some Medical/Health service cases. We believe that these were caused by an outbreak amongst the staff, this goes to show that even the most sanitary places can still experience outbreaks.
@@ -52,6 +53,7 @@ As seen in figure 1, we came to know that most outbreaks happened in the workpla
 After categorizing the cases, we decided to check on the trend of the outbreaks such increases, decreases and statistical values such as mean. Here we attached a visual representation of the outbreaks categorized by months: 
 
 Figure 2:
+
 ![](Capture1.PNG)
 
 The blue line included in the graph above (figure 2) shows the average amount of cases per month which was 15082 covid infections per month. The first 7 months of outbreaks stayed above the monthy average and after that it dropped. The number of Cases started to increase from 2020-11 till 2021-01 ( 2 months) as after that the cases seemed to have significanlty drop. From the data, a second wave is apparent as when rules started to get a bit lax, from 2021-03 till 2021-04 ( 1 month) cases started to uptrend alot. From that point onwards, the monthly amount of cases significantly dropped. 
