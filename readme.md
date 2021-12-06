@@ -106,7 +106,9 @@ In conclusion, our research on covid-19 outbreaks in Ontario using Data.ontario 
 
 
 ## ReadME
-In order to run the data mentioned in this blog report, you will need to run the following code:
+In order to recreate the data used in this blog report, you will need to run the following code:
+
+![](code.PNG)
 
 
 ## Acknowledgements
