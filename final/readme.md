@@ -42,6 +42,7 @@ Other than the ager groups, the data set includes categories of the following to
 
 ### Discussion
 Upon researching, we had found several interesting stuff which at the end of the day helped us better understand Covid-19. One being the outbreaks being categorized. 
+
 Figure 1:
 ![](Capture.PNG)
 
@@ -49,6 +50,7 @@ As seen in figure 1, we came to know that most outbreaks happened in the workpla
 
 ###
 After categorizing the cases, we decided to check on the trend of the outbreaks such increases, decreases and statistical values such as mean. Here we attached a visual representation of the outbreaks categorized by months: 
+
 Figure 2:
 ![](Capture1.PNG)
 
