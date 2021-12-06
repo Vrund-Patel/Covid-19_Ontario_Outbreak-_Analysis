@@ -1,12 +1,12 @@
 # Analyzing Covid-19 Outbreaks in Ontario 
 ### About us
-Vishwaajeeth Kamalakkannan - 
+Vishwaajeeth Kamalakkannan 
 
-Haider bajwa - 
+Haider bajwa
 
-Vrund Patel - 
+Vrund Patel
 
-Fahad Fauzan - 
+Fahad Fauzan
 #
 Over the past year, the world has been shaken by the novel Corona virus. From schools to work, the way we do everything has changed. What's important for us now is to learn how we can overcome this epedemic and that is where data analysis is very crucial. In this report we will be analyzing outbreaks across Ontario and looking into important details such as which group was most affected?When did the number of outbreaks increase and how the return of school has had on cases. The first dataset we used in this project is the "Ongoing outbreaks" dataset which was provided from data.ontario (https://data.ontario.ca/dataset/ontario-covid-19-outbreaks-data/resource/66d15cce-bfee-4f91-9e6e-0ea79ec52b3d)
 The dataset (as of october 29) has 8085 reocords. It includes 7 unique outbreak groups:
