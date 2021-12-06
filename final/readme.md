@@ -42,33 +42,43 @@ Other than the ager groups, the data set includes categories of the following to
 
 ### Discussion
 Upon researching, we had found several interesting stuff which at the end of the day helped us better understand Covid-19. One being the outbreaks being categorized. 
+Figure 1:
 ![](Capture.PNG)
 
-As seen in the picture above, we came to know that most outbreaks happened in the workplace. This makes sense because that is where alot of people spend majority of their day. The second highest one was the Long-Term care homes, this is because older people have weaker immune systems so it is much easier having an outbreak there. What surprised us were how there were some Medical/Health service cases. We believe that these were caused by an outbreak amongst the staff, this goes to show that even the most sanitary places can still experience outbreaks.
+As seen in figure 1, we came to know that most outbreaks happened in the workplace. This makes sense because that is where alot of people spend majority of their day. The second highest one was the Long-Term care homes, this is because older people have weaker immune systems so it is much easier having an outbreak there. What surprised us were how there were some Medical/Health service cases. We believe that these were caused by an outbreak amongst the staff, this goes to show that even the most sanitary places can still experience outbreaks.
 
 ###
 After categorizing the cases, we decided to check on the trend of the outbreaks such increases, decreases and statistical values such as mean. Here we attached a visual representation of the outbreaks categorized by months: 
+Figure 2:
 ![](Capture1.PNG)
 
-The blue line included in the graph above shows the average amount of cases per month which was 15082 covid infections per month. The first 7 months of outbreaks stayed above the monthy average and after that it dropped. The number of Cases started to increase from 2020-11 till 2021-01 ( 2 months) as after that the cases seemed to have significanlty drop. From the data, a second wave is apparent as when rules started to get a bit lax, from 2021-03 till 2021-04 ( 1 month) cases started to uptrend alot. From that point onwards, the monthly amount of cases significantly dropped. 
+The blue line included in the graph above (figure 2) shows the average amount of cases per month which was 15082 covid infections per month. The first 7 months of outbreaks stayed above the monthy average and after that it dropped. The number of Cases started to increase from 2020-11 till 2021-01 ( 2 months) as after that the cases seemed to have significanlty drop. From the data, a second wave is apparent as when rules started to get a bit lax, from 2021-03 till 2021-04 ( 1 month) cases started to uptrend alot. From that point onwards, the monthly amount of cases significantly dropped. 
 
 What we found quite interesting was how after the drop (2021-05 - 2021-06), the cases started to gradually increase again. Most importantly they increased alot from september 2021, that is the time of the year when the government pushed the narrative of "safe and normal" return to school but has it really been? We decided to further analyze the data by using the groups and sub group categories to help us narrow down to our target demographic which was the elementary students. We split up the data into elementary students, secondary students and post-secondary students. here are some visual representations of our findings:
 
+Figure 3:
+
 ![](Capture2.PNG)
 
-Here in the line graph above. We found that there were an increase in cases in august 2021 but it was handled and the following months showed a downtrend
+Here in the line graph above (figure 3). We found that there were an increase in cases in august 2021 but it was handled and the following months showed a downtrend
+
+Figure 4:
 
 ![](Capture3.PNG)
 
-Here in the line graph above. We found that there was a steady increase in cases starting from July.The trend of the line is steeply upwards showing the likely hood of this continuing.
+Here in the line graph above (Figure 4). We found that there was a steady increase in cases starting from July.The trend of the line is steeply upwards showing the likely hood of this continuing.
+
+Figure 5:
 
 ![](Capture4.PNG)
 
-here in the last line graph (above) which reprsents the elementary students, shows a massive increase of cases from august with line trend steeply high like an exponential graph.
+here in the last line graph (figure 5) which reprsents the elementary students, shows a massive increase of cases from august with line trend steeply high like an exponential graph.
+
+Figure 6:
 
 ![](Capture5.PNG)
 
-Here in the last graph, we had combined all of our school findings into a bar graph showing the number of outbreaks.
+Here in the last graph (Figure 6), we had combined all of our school findings into a bar graph showing the number of outbreaks.
 
 After carefully analyzing all the charts as well as the combined chart at the end. We have concluded that the push of a 'safe and normal' return to school did not hold up to its statement. When the province went into the second lockdown last school year, elementary schools experienced a peak of 4300 breakouts in April. Over the months of May 2021 - August 2021, Students at all levels of educations had less than 300 cases as the lockdown continued. When the government assured that it was safe to return to school, the cases started to rise. From August 2021 to September 2021 there was an increase of 3187% of cases among elementary students while other instituitions did not experience much. The following month received an increase of 238% from the previous amount and now the outbreaks stand at 2360.
 
@@ -76,7 +86,11 @@ The age group 0-14 makes 15.3%(link: https://www150.statcan.gc.ca/n1/daily-quoti
 
 Out of pure curiosity, we wanted to know if there were any trends with vaccination status and covid amongst elmentary students. Here we have concluded 2 graphs, one for vaccinated and the other for unvaccinated:
 
+Figure 7:
+
 ![](Capture6.PNG)
+
+Figure 8:
 
 ![](Capture7.PNG)
 
