@@ -3,7 +3,7 @@
 
 Vishwaajeeth Kamalakkannan - Vishwaajeeth 
 
-Haider bajwa - printHaider
+Haider bajwa - printhaider
 
 Vrund Patel - Vrund-Patel
 
@@ -105,7 +105,8 @@ In conclusion, our research on covid-19 outbreaks in Ontario using Data.ontario 
 #
 
 
-
+## ReadME
+In order to run the data mentioned in this blog report, you will need to run the following code:
 
 
 ## Acknowledgements
