@@ -43,6 +43,7 @@ Other than the ager groups, the data set includes categories of the following to
 ### Discussion
 Upon researching, we had found several interesting stuff which at the end of the day helped us better understand Covid-19. One being the outbreaks being categorized. 
 ![](Capture.PNG)
+
 As seen in the picture above, we came to know that most outbreaks happened in the workplace. This makes sense because that is where alot of people spend majority of their day. The second highest one was the Long-Term care homes, this is because older people have weaker immune systems so it is much easier having an outbreak there. What surprised us were how there were some Medical/Health service cases. We believe that these were caused by an outbreak amongst the staff, this goes to show that even the most sanitary places can still experience outbreaks.
 
 ###
