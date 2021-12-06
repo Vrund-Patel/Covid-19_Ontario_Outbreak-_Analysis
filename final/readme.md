@@ -59,11 +59,11 @@ Here in the line graph above. We found that there were an increase in cases in a
 
 ![](Capture3.PNG)
 
-Here in the line graph above. We found that there was a steady increasde in cases starting from July.The trend of the line is steeply upwards showing the likely hood of this continuing.
+Here in the line graph above. We found that there was a steady increase in cases starting from July.The trend of the line is steeply upwards showing the likely hood of this continuing.
 
 ![](Capture4.PNG)
 
-here in the last line graph which reprsents the elementary students, shows a massive increase of cases from august with line trend steeply high like an exponential graph.
+here in the last line graph (above) which reprsents the elementary students, shows a massive increase of cases from august with line trend steeply high like an exponential graph.
 
 ![](Capture5.PNG)
 
@@ -74,8 +74,11 @@ After carefully analyzing all the charts as well as the combined chart at the en
 The age group 0-14 makes 15.3%(link: https://www150.statcan.gc.ca/n1/daily-quotidien/210929/cg-d003-eng.htm) of Ontario's population. The average monthly cases across Ontario are 15,082 outbreaks a month. Onto our previous findings, elementary students made upto (2,360/15,082 X 100) 15.6% of the total cases. That number had gone up 238% from the previous month(6.5% ~ 988 cases from the average). Our findings suggest that ever since the government re-introduced in person learning, the cases amongst elementary students has been in an uptrend and has already reached 54% of last lockdowns all time highs. This goes onto prove that no, school has not been safe and these findings suggest that we might have more problems along the way, potentially as a 3rd lockdown.
 
 Out of pure curiosity, we wanted to know if there were any trends with vaccination status and covid amongst elmentary students. Here we have concluded 2 graphs, one for vaccinated and the other for unvaccinated:
+
 ![](Capture6.PNG)
+
 ![](Capture7.PNG)
+
 As you the viewer, can see that the difference between both is very significant. Outbreak percentage by vaccinated students was near zero most of the school year with occasional spikes caused due to low volume of cases. Then that raises the question, are all the cases coming from unvaccinated students? The first graph here suggests that unvaccinated students are more likely to get covid and it is more apparent as the percentage has nearly doubled itself from October to November. This goes to show us that in order to protect your kids from covid-19, full vaccination is a must.
 
 In conclusion, our research on covid-19 outbreaks in Ontario using Data.ontario provided datasets have helped us better understand the virus. With the knowledge and skills we have learnt in our data analysis class have better prepared us in making these discoveries as we were able to efficently process large amounts of data and find out which places have high outbreaks, outbreak trends as well as see if our government was right about the "safe and normal" return for elementary students. We believe that like every project, there is always room for improvment. As we look back on this project one thing we could improve on is using an automatic updating data set which updates the charts every week as we believe that covid trends could change at any given time and its important to take current data into account.
