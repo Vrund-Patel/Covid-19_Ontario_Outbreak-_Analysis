@@ -1,10 +1,10 @@
 # Analyzing Covid-19 Outbreaks in Ontario 
-### About us
+### About us (Name - Github ID)
 Vishwaajeeth Kamalakkannan 
 
 Haider bajwa
 
-Vrund Patel
+Vrund Patel - Vrund-Patel
 
 Fahad Fauzan
 #
