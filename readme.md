@@ -106,7 +106,7 @@ In conclusion, our research on covid-19 outbreaks in Ontario using Data.ontario 
 
 
 ## ReadME
-In order to recreate the data used in this blog report, you will need to run the following code which converts the csv files into data frames:
+In order to recreate the data used in this blog report, you will need to run the following code which contains the necessary dependencies and converts the csv files into data frames:
 
 ![](code.PNG)
 
