@@ -9,6 +9,7 @@ Vrund Patel - Vrund-Patel
 
 Fahad Fauzan - fahadf-14
 #
+### Introduction
 Over the past year, the world has been shaken by the novel Corona virus. From schools to work, the way we do everything has changed. What's important for us now is to learn how we can overcome this epedemic and that is where data analysis is very crucial. In this report we will be analyzing outbreaks across Ontario and looking into important details such as which group was most affected?When did the number of outbreaks increase and how the return of school has had on cases. The first dataset we used in this project is the "Ongoing outbreaks" dataset which was provided from data.ontario (https://data.ontario.ca/dataset/ontario-covid-19-outbreaks-data/resource/66d15cce-bfee-4f91-9e6e-0ea79ec52b3d)
 The dataset (as of october 29) has 8085 reocords. It includes 7 unique outbreak groups:
 * Workplace
@@ -102,6 +103,8 @@ Figure 8:
 As you the viewer, can see that the difference between both is very significant. Outbreak percentage by vaccinated students was near zero most of the school year with occasional spikes caused due to low volume of cases. Then that raises the question, are all the cases coming from unvaccinated students? The first graph here suggests that unvaccinated students are more likely to get covid and it is more apparent as the percentage has nearly doubled itself from October to November. This goes to show us that in order to protect your kids from covid-19, full vaccination is a must.
 
 There is a lot of potential for data science applications using this data. The ongoing outbreak data can be used as a basis for models of prediction. We can use the data we currently have to prevent future outbreaks from happening. For example if there are more outbreaks happening in schools, we can restrict the access that students and teachers have to schools (make it online). With both of the data sets as well as information we have extracted, we can really help future issues. When school closes down for summer break, school leaders can get ideas on how to prevent future major outbreaks as well as help the schools with the most outbreaks better get protection. What both these major data sets can also help with is future variants of covid, we can better plan ahead for new variants as well as help pin point specific location thats new variants could be as well as see if those areas are vaccinated or not.
+
+### Conclusion
 
 In conclusion, our research on covid-19 outbreaks in Ontario using data.ontario provided datasets have helped us better understand the virus. With the knowledge and skills we have learned in our data analysis class have better prepared us in making these discoveries as we were able to efficently process large amounts of data and find out which places have high outbreaks, outbreak trends as well as see if our government was right about the "safe and normal" return for elementary students. We believe that like every project, there is always room for improvment. As we look back on this project one thing we could improve on is using an automatic updating data set which updates the charts every week as we believe that covid trends could change at any given time and its important to take current data into account.
 #
